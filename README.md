@@ -1,4 +1,4 @@
-# designs
+# Introduction
 Hi, I'm Quay — most people call me Kain. I am a designer and developer utilizing my gifts in creative thinking and problem solving to create awareness and access for communities. 
 
 I have multiple talents but the common theme is design. I started manipulating HTML code in MySpace (when that was a thing, sorry if you're born before 2000 :/) and from there I began designing banners on Photoshop and I've been going every since. I have a series of experiences that make my eye for creativity and design thinking unique. I am composed of many things, and those things make me who I am. I utilize those traumas, those experiences, and those thoughts for human-centered design.  
