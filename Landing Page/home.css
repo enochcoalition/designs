@@ -1,0 +1,29 @@
+body {
+    font-family: Raleway;
+    margin-top: 25px;
+    margin-left: 40px;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/56f1fcce1bbee0cd46890ab9/1564362561852-JWF7G2Z2G7RMZMP3Q9O0/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbeDbaZv1s3QfpIA4TYnL5Qao8BosUKjCVjCf8TKewJIH3bqxw7fF48mhrq5Ulr0Hg/WebBackground.png?format=1500w');
+    background-position: center;
+}
+
+#SiteTitle {
+    font-size: 25px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+#Main {
+    line-height: 30px;
+    color: grey;
+}
+
+#Buttons, #Buttons2 {
+    padding: 5px 10px 5px;
+    font-size: 25px;
+    font-family: Raleway;
+    background-color: white;
+}
